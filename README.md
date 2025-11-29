@@ -5,8 +5,8 @@
 ---
 
 ### About
-- **Age:** 16  
+- **Age:** 17
 - **Pronouns:** He/Him  
 - **Location:** Kosovo  
-- **Website:** https://yourwebsite.dev
+- **Website:** Not yet
 
